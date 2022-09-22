@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "World Icon Replacer",
+    "description": "ワールドのアイコンを置き換える\nCreated by Yuka0745",
+    "version": [ 1, 0, 0 ],
+    "uuid": "fbfc8d51-89a1-4831-b3d1-db330de83909",
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "",
+      "version": [ 1, 0, 0 ],
+      "uuid": "a1553b97-d7ed-4996-b3cc-8aacf9ad8f33"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Yuka0745"
+    ],
+    "url": "https://gote-server-yuka.blogspot.com/",
+    "license": "Licence.txt"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "namespace": "world_section",
+
+  "replace_world_icon_button_icon": {
+    "type": "image",
+    "texture": "textures/ui/camera-small",
+    "color": "$text_color",
+    "size": [ 10, 10 ]
+  },
+
+  "selector_pane_content/world_snapshot_image/thumbnail": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "insert_front",
+        "value": [
+          {
+            "replace_world_icon@common_buttons.light_content_button": {
+              "size": [ 15, 15 ],
+              "offset": [ -2, 2 ],
+              "anchor_from": "top_right",
+              "anchor_to": "top_right",
+              "$button_content": "world_section.replace_world_icon_button_icon",
+              "$pressed_button_name": "template_image_picker_button"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

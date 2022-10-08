@@ -8,6 +8,9 @@
 4. 置き換えたいワールドアイコンを選択(jpeg形式)
 5. ワールドの設定画面を開きなおすと変更後のワールドアイコンが表示されます。
 
+## 対応機種
+Windows
+
 ## ライセンス
 [Licence.txt](https://github.com/Gotemba912/MCBE_WorldIconReplacer/blob/main/Licence.txt)
 

@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "name": "World Icon Replacer",
+    "name": "World Icon Replacer v1.0.1",
     "description": "ワールドのアイコンを置き換える\nCreated by Yuka0745",
-    "version": [ 1, 0, 0 ],
+    "version": [ 1, 0, 1 ],
     "uuid": "fbfc8d51-89a1-4831-b3d1-db330de83909",
     "min_engine_version": [ 1, 13, 0 ]
   },
@@ -11,7 +11,7 @@
     {
       "type": "resources",
       "description": "",
-      "version": [ 1, 0, 0 ],
+      "version": [ 1, 0, 1 ],
       "uuid": "a1553b97-d7ed-4996-b3cc-8aacf9ad8f33"
     }
   ],
